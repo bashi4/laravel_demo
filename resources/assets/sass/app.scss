@@ -5,5 +5,13 @@
 // Variables
 @import "variables";
 
+@import "~@coreui/vue/Vue_Starter/scss/style.scss";
+@import "coreui-variables";
+
 // Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+//@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~bootstrap/scss/bootstrap.scss";
+
+@import "~font-awesome/scss/font-awesome.scss";
+
+@import "~simple-line-icons/scss/simple-line-icons.scss";
